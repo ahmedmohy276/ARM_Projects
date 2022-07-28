@@ -1,0 +1,8 @@
+USART_program.c:19:6:MUSART1_voidInit	8	static
+USART_program.c:40:6:MUSART1_voidTransmitSynch	24	static
+USART_program.c:51:6:MUSART1_voidTransmitAsynch	16	static
+USART_program.c:60:4:MUSART1_u8ReceiveSynch	24	static
+USART_program.c:82:6:MUSART1_voidReceiveAsynch	16	static
+USART_program.c:90:6:USART1_TX_IRQHandler	4	static
+USART_program.c:96:6:USART1_RX_IRQHandler	8	static
+USART_program.c:102:13:SET_BRR_Value	32	static

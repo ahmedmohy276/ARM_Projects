@@ -1,0 +1,5 @@
+Parse.c:16:4:AsciToHex	24	static
+Parse.c:33:6:CRC_Check	80	static
+Parse.c:70:6:ParseData	32	static
+Parse.c:108:6:ParseUpperAddress	16	static
+Parse.c:125:6:Parser_voidParseRecord	16	static
